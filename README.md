@@ -1,10 +1,10 @@
-# [Título del trabajo]
+# [TupmTaller]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+[Proporcionar informacion a cerca de las diversas reparaciones, pedidos y dudas de los clientes,de un taller conevncional.]
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+[Ismael Saiz]
 
 ## Objetivos del trabajo
 
