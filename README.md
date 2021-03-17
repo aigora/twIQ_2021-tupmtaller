@@ -1,11 +1,13 @@
 # [TupmTaller]
 
-[Proporcionar informacion a cerca de las diversas reparaciones, pedidos y dudas de los clientes,de un taller conevncional.]
+[Proporcionar informacion a cerca de las diversas reparaciones, pedidos y dudas de los clientes,de un taller convencional].
 
 ## Integrantes del equipo
 
-[Ismael Saiz]
+[Ismael Saiz] @ismasaiz
+[Samuel  Ramirez] @Samuuu-r
+[Manuel  Peña] @
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+[Crear un programa que permita automatizar a los clientes de su taller de toda la vida que contenga todo tipo de ofertas, precios, reservas y reparaciones para resolver todas sus dudas antes de visitar el taller]
