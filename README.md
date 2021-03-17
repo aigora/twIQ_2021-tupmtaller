@@ -6,7 +6,7 @@
 
 [Ismael Saiz] @ismasaiz
 [Samuel  Ramirez] @Samuuu-r
-[Manuel  Peña] @
+[Manuel  Peña] @manuerlpenazambrano
 
 ## Objetivos del trabajo
 
