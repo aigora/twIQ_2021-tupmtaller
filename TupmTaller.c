@@ -254,7 +254,8 @@ int main() {
 					scanf("%s", nickRegister);
 					for (i = 0; i < nUser; i++) {
 						if (strcmp(users[i].nick, nickRegister) == 0) {
-							printf("\nEl nombre de usuario introducido ya está en uso, porfavor introduzce otro:\n");
+							printf("\nEl nombre de usuario introducido ya está en uso, porfavor introduzce otro\n");
+							delay(2);
 							break;
 						}
 					}
