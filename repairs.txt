@@ -1,0 +1,18 @@
+1 Sustitución de la Suspensión
+220
+2 Sustitución de la Batería
+95
+3 Kit de Distribución Completo
+180
+4 Cambio Escobillas Limpiaparabrisas
+25
+5 Cambio de Neumáticos
+250
+6 Revisión Completa
+85
+7 Lavado Completo Interior y Exterior
+20
+8 Cambio de Pastilla de Freno
+70
+9 Alineación y Equilibrado
+50
