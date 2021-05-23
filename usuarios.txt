@@ -1,3 +1,4 @@
-Sametralla Samuel Ramirez Isabel 636524518 5465CFG Cochecito10 0 0 0
-Ismita Ismael Saiz Montilla 659452058 25638HAD cacadevaca cacadevaca 25 0 0
-Manuu22 Manuel Peña Zambrano 652365412 8956DWQ cuchara1 32 0 0
+Sametralla Samuel Ramirez Isabel 636524518 5465CFG Cochecito10 2 0 0
+Ismita Ismael Saiz Montilla 659452058 25638HADcacadevaca cacadevaca 0 0 0
+cacadevaca 25 0 0 Manuu22 Manuel Peña 0 0 0
+Zambrano 652365412 8956DWQ cuchara1 32 0 0 0 0 0
